@@ -1,3 +1,3 @@
 #!/bin/bash
-$USUARIO=$(whoami)
+USUARIO=$(whoami)
 echo "Buenas tardes, el usuario es $USUARIO"
